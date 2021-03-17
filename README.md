@@ -18,8 +18,17 @@ Here are some ideas to get you started:
 
 [![cody1991's GitHub stats](https://github-readme-stats.vercel.app/api?username=cody1991&count_private=true&show_icons=true&theme=vue)](https://github.com/cody1991)
 
-[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=Blog)](https://github.com/cody1991/Blog)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cody1991&layout=compact)](https://github.com/cody1991)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=aboutme)](https://github.com/cody1991/aboutme)
+<a href="https://github.com/cody1991/Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=Blog" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=cody1991.github.io)](https://github.com/cody1991/cody1991.github.io)
+<a href="https://github.com/cody1991/aboutme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=aboutme" />
+</a>
+
+<a href="https://github.com/cody1991/cody1991.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=cody1991.github.io" />
+</a>
+
