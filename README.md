@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with how to imporve myself
 - 💬 Ask me about anything
 - 📫 How to reach me: 476490767@qq.com
-- 😄 Pronouns: what this means..
+- 😄 Pronouns: What is the meaning of this..
 - ⚡ Fun fact: single dog
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=cody1991&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900)
