@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cody1991&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900)
+[![cody1991's GitHub stats](https://github-readme-stats.vercel.app/api?username=cody1991&count_private=true&show_icons=true&theme=cobalt)](https://github.com/cody1991)
 
 
 - 🔭 I’m currently working on Tencent
