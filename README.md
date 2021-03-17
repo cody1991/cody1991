@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cody1991&layout=compact)](https://github.com/cody1991)
 
+<!--
 <a href="https://github.com/cody1991/Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=Blog" />
 </a>
@@ -31,4 +32,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/cody1991/cody1991.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=cody1991.github.io" />
 </a>
+-->
 
