@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cody1991&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900)
+
+
 - 🔭 I’m currently working on Tencent
 - 🌱 I’m currently learning Vite
 - 👯 I’m looking to collaborate on some UI Components
@@ -23,5 +27,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 476490767@qq.com
 - 😄 Pronouns: What is the meaning of this..
 - ⚡ Fun fact: single dog
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=cody1991&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900)
