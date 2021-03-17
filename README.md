@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 
 [![cody1991's GitHub stats](https://github-readme-stats.vercel.app/api?username=cody1991&count_private=true&show_icons=true&theme=vue)](https://github.com/cody1991)
 
+[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=Blog)](https://github.com/cody1991/Blog)
 
-- 🔭 I’m currently working on Tencent
-- 🌱 I’m currently learning Vite
-- 👯 I’m looking to collaborate on some UI Components
-- 🤔 I’m looking for help with how to imporve myself
-- 💬 Ask me about anything
-- 📫 How to reach me: 476490767@qq.com
-- 😄 Pronouns: What is the meaning of this..
-- ⚡ Fun fact: single dog
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=aboutme)](https://github.com/cody1991/aboutme)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cody1991&repo=cody1991.github.io)](https://github.com/cody1991/cody1991.github.io)
