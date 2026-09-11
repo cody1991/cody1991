@@ -16,4 +16,5 @@
 1. **组合跟单** — 盯公开组合调仓，按仓位映射到长桥 / 富途 / IBKR
 2. **百分比网格** — 回撤买、反弹卖；贪恐过冷过热会自动启停格子
 3. **MRMC** — 扫 MACD 背离，提示可能的抄底和卖出
-4. **只读 MCP** — [openfolio-ro-mcp](https://github.com/cody1991/openfolio-ro-mcp) 给 AI 助手看持仓、网格和信号，不能下单
+
+给 AI 的只读入口：[openfolio-ro-mcp](https://github.com/cody1991/openfolio-ro-mcp)，不能下单。
