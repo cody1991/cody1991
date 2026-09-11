@@ -28,6 +28,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: make dist writable for later steps
+        run: sudo chmod -R a+rwX dist
+
       - name: generate arcade contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
