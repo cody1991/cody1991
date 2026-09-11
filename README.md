@@ -13,6 +13,8 @@
 
 ## OpenFolio
 
+最近的重点项目。
+
 ![OpenFolio](assets/openfolio-hero.png)
 
 美股投资辅助：公开组合跟单、百分比网格、抄底信号按盘中节奏跑，映射到长桥 / 富途 / IBKR；过冷过热会启停格子，重要变动才推到企微或 Discord。已上线，期待后续开放。
