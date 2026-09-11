@@ -11,10 +11,10 @@
 
 ![OpenFolio](assets/openfolio-hero.png)
 
-美股投资辅助，已上线：[codytang.cn](https://codytang.cn)。目前小范围在用，暂不对外开放。
+美股投资辅助，已上线：[codytang.cn](https://codytang.cn)。小范围使用中，暂不对外开放。
 
-1. **组合跟单** — 盯公开组合调仓，按仓位映射到长桥 / 富途 / IBKR
-2. **百分比网格** — 回撤买、反弹卖；贪恐过冷过热会自动启停格子
-3. **MRMC** — 扫 MACD 背离，提示可能的抄底和卖出
-4. **自动化交易** — 长桥、IBKR Gateway 已打通；IBKR 自动登录，不用人去点
-5. **MCP** — [openfolio-ro-mcp](https://github.com/cody1991/openfolio-ro-mcp)，在 Cursor / Claude 里直接问自己的盘，不用翻后台
+1. **组合跟单** — 跟踪公开组合的调仓，按目标仓位接到长桥 / 富途 / IBKR
+2. **百分比网格** — 回撤买、反弹卖，过冷过热时自动启停格子
+3. **MRMC** — 按 MACD 背离扫描抄底和卖点
+4. **自动化交易** — 长桥与 IBKR Gateway 已打通，IBKR 登录无需人工点击
+5. **MCP** — [openfolio-ro-mcp](https://github.com/cody1991/openfolio-ro-mcp)，在 Cursor / Claude 里直接问盘，不用切后台
