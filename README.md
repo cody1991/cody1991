@@ -18,12 +18,6 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cody1991/cody1991/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cody1991/cody1991/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/cody1991/cody1991/output/galaga-contribution-graph.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cody1991/cody1991/output/puzzle-bobble-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cody1991/cody1991/output/puzzle-bobble-contribution-graph.svg">
   <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/cody1991/cody1991/output/puzzle-bobble-contribution-graph.svg">
