@@ -34,9 +34,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cody1991/cody1991/output/bomberman-contribution-graph.svg">
   <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/cody1991/cody1991/output/bomberman-contribution-graph.svg">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cody1991/cody1991/output/minesweeper-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cody1991/cody1991/output/minesweeper-contribution-graph.svg">
-  <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/cody1991/cody1991/output/minesweeper-contribution-graph.svg">
-</picture>
