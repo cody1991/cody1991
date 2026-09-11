@@ -17,6 +17,6 @@
 
 ![OpenFolio](assets/openfolio-hero.png)
 
-美股投资辅助：公开组合跟单、百分比网格、抄底信号按盘中节奏跑，映射到长桥 / 富途 / IBKR；过冷过热会启停格子，重要变动才推到企微或 Discord。已上线，期待后续开放。
+美股投资辅助：公开组合跟单、百分比网格、抄底信号按盘中节奏跑，映射到长桥 / 富途 / IBKR；过冷过热会启停格子，重要变动才推到企微或 Discord。已上线：[codytang.cn](https://codytang.cn)，期待后续开放。
 
 给 AI 助手的是只读 MCP：[openfolio-ro-mcp](https://github.com/cody1991/openfolio-ro-mcp)，能看持仓、网格和信号，不能下单。
