@@ -17,7 +17,7 @@
 
 ![OpenFolio](assets/openfolio-hero.png)
 
-美股投资辅助，已上线：[codytang.cn](https://codytang.cn)。
+美股投资辅助，已上线：[codytang.cn](https://codytang.cn)。目前自用，暂不对外开放。
 
 1. **组合跟单** — 盯公开组合调仓，按仓位映射到长桥 / 富途 / IBKR
 2. **百分比网格** — 回撤买、反弹卖；贪恐过冷过热会自动启停格子
